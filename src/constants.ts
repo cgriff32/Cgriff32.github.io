@@ -1,12 +1,7 @@
 import type { Props } from "astro";
 import IconMail from "@/assets/icons/IconMail.svg";
 import IconGitHub from "@/assets/icons/IconGitHub.svg";
-import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconLinkedin from "@/assets/icons/IconLinkedin.svg";
-import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
-import IconFacebook from "@/assets/icons/IconFacebook.svg";
-import IconTelegram from "@/assets/icons/IconTelegram.svg";
-import IconPinterest from "@/assets/icons/IconPinterest.svg";
 import { SITE } from "@/config";
 
 interface Social {
@@ -19,30 +14,27 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "GitHub",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on GitHub`,
+    href: "https://github.com/cgriff32",
+    linkTitle: `Griff on GitHub`,
     icon: IconGitHub,
   },
   {
-    name: "X",
-    href: "https://x.com/username",
-    linkTitle: `${SITE.title} on X`,
-    icon: IconBrandX,
-  },
-  {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/username/",
-    linkTitle: `${SITE.title} on LinkedIn`,
+    href: "https://www.linkedin.com/in/chrisgriffiths32",
+    linkTitle: `Griff on LinkedIn`,
     icon: IconLinkedin,
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
+    href: "mailto:cgriff32@gmail.com",
+    linkTitle: `Send an email to Griff`,
     icon: IconMail,
   },
 ] as const;
 
+// These are for sharing individual blog posts, not your personal social profiles
+// You can uncomment and adjust if you want specific share links for blog posts.
+/*
 export const SHARE_LINKS: Social[] = [
   {
     name: "WhatsApp",
@@ -81,3 +73,4 @@ export const SHARE_LINKS: Social[] = [
     icon: IconMail,
   },
 ] as const;
+*/
