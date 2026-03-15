@@ -1,37 +1,20 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About Griff: Systems Architect & Consultant"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+I provide strategic technical consulting for organizations building complex, safety-critical systems where the margin for error is zero. 
 
-![Astro Paper](public/astropaper-og.jpg)
+### 🛠 Core Competencies
+*   **Systems Architecture (SIL4):** Designing safety-critical systems from the kernel up (PikeOS, RTOS, Yocto).
+*   **Hardware-to-Cloud Integration:** Architecting robust data pipelines from FPGA/Edge devices to AWS/Modern Cloud stacks.
+*   **Infrastructure as Code:** Building reproducible, high-availability environments for engineering teams.
+*   **Technical Leadership:** Bridging the communication gap between embedded engineers and cloud-native developers.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+### 💼 Engagement Models
+1.  **Architectural Review:** A deep-dive audit of your current stack to identify bottlenecks, safety risks, and scalability issues.
+2.  **Fractional CTO/Architect:** Ongoing strategic guidance for startups and engineering firms navigating the embedded/cloud intersection.
+3.  **Custom Lab Setup:** Designing and implementing local "metal" infrastructure (like GriffNet) for specialized research or private dev environments.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
-
-## Features
-
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
-
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
-
-and so much more.
-
-## Show your support
-
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+*Have a complex problem at the edge? Let’s talk architecture.*
+[Inquire via LinkedIn](https://www.linkedin.com/in/chrisgriffiths32) | [Email](mailto:cgriff32@gmail.com)
